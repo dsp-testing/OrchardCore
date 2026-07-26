@@ -1,7 +1,7 @@
 {
   "name": "@orchardcore/tests-functional",
   "devDependencies": {
-    "cypress": "^9.6.1",
+    "cypress": "^15.19.0",
     "cypress-orchardcore": "file:cypress-commands",
     "faker": "^6.6.6",
     "fs-extra": "^10.1.0"
